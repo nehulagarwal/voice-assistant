@@ -40,26 +40,6 @@ This project is a versatile **Voice Assistant** built with Python, capable of ha
 
 ---
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant-python.git
-   cd voice-assistant-python
-   ```
-
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the script:
-   ```bash
-   python voice_assistant.py
-   ```
-
----
-
 ## Usage
 
 1. Launch the voice assistant.
